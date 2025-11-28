@@ -16,12 +16,9 @@
 A diode is a PN junction formed by a layer of P type and layer of N type Semiconductors. Diode does not conduct. But there will be a leakage current due to minority carrier. Once formed the free electrons in the N region diffuse across the junction and combine with holes in P region and so a depletion Layer is developed. The depletion layer consists of ions, which acts like a barrier for diffusion of charged beyond a certain limit. The difference of potential across the depletion layer is called the barrier potential. At 2.5degree the barrier potential is approximately equal 0.7v for silicon diode and 0.3v for germanium diode. When the junction is forward bias, the majority carrier acquired sufficient energy to overcome the barrier and the diode conducts. When the  junction  is  reverse-biased  the  depletion  layer  widens  and  the  barrier  potential increases.
 
 ## CIRCUIT DIAGRAM: 
-## FORWARD BIAS:
-
-## REVERSE BIAS:
-
+![WhatsApp Image 2025-11-28 at 19 05 20_00cfb1ac](https://github.com/user-attachments/assets/4b44f778-460e-40aa-9fa5-39393b65977d)
 ## MODEL GRAPH:
-
+![WhatsApp Image 2025-11-28 at 19 05 43_fedc8560](https://github.com/user-attachments/assets/34e1f6b1-da9a-4dfb-a1aa-f7fa4ade1acc)
 ## PROCEDURE:  
 ## FORWARD BIAS 
 1. The connections are made as per the circuit diagram.
@@ -48,12 +45,16 @@ A diode is a PN junction formed by a layer of P type and layer of N type Semicon
 **Reverse Resistance**  **R<sub>R</sub> = ΔV<sub>R</sub> / ΔI<sub>R</sub> (Ω)** 
 
 ## TABULATION:
+![WhatsApp Image 2025-11-28 at 19 06 06_c9c630d6](https://github.com/user-attachments/assets/fa5876a5-41c0-435b-b34c-4f920e800a59)
 
 ## CALCULATIONS:
+![WhatsApp Image 2025-11-28 at 19 10 19_876047b3](https://github.com/user-attachments/assets/6337ae99-7910-4cad-b9d7-4972d0e71950)
 
 ## GRAPH:
+![WhatsApp Image 2025-11-28 at 19 06 27_bb6ca1d2](https://github.com/user-attachments/assets/b1836c22-c624-45fd-a263-2ec606068053)
+
 
  ## RESULTS:
- 1. Forward resistance of PN diode     = --------------------
- 2. Reverse resistance   of PN diode   = --------------------
- 3. Cut in Voltage of PN diode         = -------------------
+ 1. Forward resistance of PN diode     = 20ohm
+ 2. Reverse resistance   of PN diode   = 0.6*10^6ohm
+ 3. Cut in Voltage of PN diode         = 0.55ohm
