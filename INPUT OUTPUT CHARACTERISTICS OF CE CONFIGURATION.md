@@ -65,7 +65,7 @@ A NPN function transistor consist of a silicon (or germanium) crystal in which a
  ## RESULT:
  The input and output characteristics of transistor in CE mode is drawn and, the h parameters are calculated.
  **Input Impedance**  
-**h<sub>ie</sub> =** _________  (Ω)
+**h<sub>ie</sub> =** _______268__  (Ω)
 
 **Output Admittance**  
 **h<sub>oe</sub> =** _________  (mho)
