@@ -57,4 +57,4 @@ A diode is a PN junction formed by a layer of P type and layer of N type Semicon
  ## RESULTS:
  1. Forward resistance of PN diode     = 20ohm
  2. Reverse resistance   of PN diode   = 0.6*10^6ohm
- 3. Cut in Voltage of PN diode         = 0.55ohm
+ 3. Cut in Voltage of PN diode         = 0.55V
