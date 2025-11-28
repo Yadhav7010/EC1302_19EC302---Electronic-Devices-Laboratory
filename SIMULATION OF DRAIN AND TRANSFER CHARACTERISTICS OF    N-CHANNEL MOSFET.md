@@ -24,10 +24,15 @@ LT-Spice
 8.Click on the run option  simulation window opens  place the probe  output graph is obtained.
 
 ## CIRCUIT DIAGRAM:
+<img width="643" height="870" alt="image" src="https://github.com/user-attachments/assets/f0569f54-1340-425e-a71c-199d04a8c7a7" />
 
+<img width="607" height="863" alt="image" src="https://github.com/user-attachments/assets/51d204c8-9a77-4845-aff2-02d795f6e236" />
 
 
 ## OUTPUT GRAPH:
+<img width="1903" height="1003" alt="image" src="https://github.com/user-attachments/assets/2cde91ee-346e-4f8c-a2c0-0439204049a9" />
+<img width="1521" height="1069" alt="image" src="https://github.com/user-attachments/assets/a0b1db1a-fe48-4376-9b50-b833c27342c3" />
+
 
 
 ## RESULT:
