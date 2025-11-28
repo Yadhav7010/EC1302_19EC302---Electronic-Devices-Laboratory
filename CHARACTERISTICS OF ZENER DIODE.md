@@ -51,6 +51,6 @@ The diodes, which are designed to operate in the breakdown region, are called th
 ![WhatsApp Image 2025-11-28 at 19 18 29_2e1f462c](https://github.com/user-attachments/assets/dbc343ff-f3eb-4769-b9ab-444304b3dd32)
 
  ## RESULT:
- Forward resistance Rf=20 ohm
+ Forward resistance Rf=20 ohm\n
  Reverse resistance Rr=0.5*10^6 ohm
  Cut in voltage = 0.55 V
