@@ -29,7 +29,8 @@ LT-Spice
 
 
 ## OUTPUT GRAPH:
-<img width="1340" height="803" alt="image" src="https://github.com/user-attachments/assets/33793736-4a13-48ff-9835-0e6d855088c2" />
+<img width="1295" height="744" alt="image" src="https://github.com/user-attachments/assets/cd787895-1022-4139-9049-11af6fb1d84b" />
+
 
 
 ## RESULT:
