@@ -13,12 +13,10 @@
 
 ## THEORY
 A NPN function transistor consist of a silicon (or germanium) crystal in which a layer of p – type silicon is sandwiched between two layers of N – type silicon.  The arrow on emitter lead specifies the direction of the current flow when the emitter – base Junction is biased in the forward direction since the conductivity of the BJT depends on both the majority and minority carriers it is called bipolar device.  In CE configuration base is the i/p terminal, collector is the o/p terminal and emitter is common to both input and output.  The ratio of change in I<sub>c</sub> to change in base current Ib is known as Current amplification factor or current gain..
-## CIRCUIT DIAGRAM: 
-## FORWARD BIAS:
 
-## REVERSE BIAS:
 
-## MODEL GRAPH:
+## CIRCUIT DIAGRAM: <img width="557" height="805" alt="Screenshot 2025-11-28 192455" src="https://github.com/user-attachments/assets/5a48ba85-b0ce-48b6-a4fd-512e00a95c17" />
+
 
 ## PROCEDURE:  
 ## INPUT CHARACTERISTICS
@@ -52,26 +50,26 @@ A NPN function transistor consist of a silicon (or germanium) crystal in which a
 **h<sub>re</sub> = ΔV<sub>BE</sub> / ΔV<sub>CE</sub>**  *(I<sub>B</sub> = constant)*
 
 
-## TABULATION:
+## TABULATION
+<img width="569" height="744" alt="Screenshot 2025-11-28 192527" src="https://github.com/user-attachments/assets/8e3dfd7e-1cbc-484b-a307-76293a622a45" />
 
-## INPUT CHARATERISTICS:
-
-## OUTPUT CHARATERISTICS:
-
-## CALCULATIONS:
 
 ## GRAPH:
+<img width="531" height="817" alt="Screenshot 2025-11-28 192647" src="https://github.com/user-attachments/assets/bad886dc-db3d-4be3-8f5d-b0b940900f21" />
+
+<img width="555" height="813" alt="Screenshot 2025-11-28 192704" src="https://github.com/user-attachments/assets/e50648eb-d627-4d91-b971-073fd4266237" />
+
 
  ## RESULT:
  The input and output characteristics of transistor in CE mode is drawn and, the h parameters are calculated.
  **Input Impedance**  
-**h<sub>ie</sub> =** _________  (Ω)
+**h<sub>ie</sub> =** ______268___  (Ω)
 
 **Output Admittance**  
-**h<sub>oe</sub> =** _________  (mho)
+**h<sub>oe</sub> =** ____0.0001_____  (mho)
 
 **Forward Current Gain**  
-**h<sub>fe</sub> =** _________
+**h<sub>fe</sub> =** _0.537_(Ω)
 
 **Reverse Voltage Gain**  
-**h<sub>re</sub> =** _________
+**h<sub>re</sub> =** 0.05(mho)
