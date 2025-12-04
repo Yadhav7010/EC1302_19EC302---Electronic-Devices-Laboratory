@@ -29,8 +29,7 @@ LT-Spice
 
 
 ## OUTPUT GRAPH:
-<img width="1313" height="979" alt="image" src="https://github.com/user-attachments/assets/7eba590c-d089-4337-8c30-4fe772d6dd4b" />
-<img width="1415" height="844" alt="Screenshot 2025-11-28 233626" src="https://github.com/user-attachments/assets/90b168ac-b06f-4dbf-b189-6f9be5005884" />
+![WhatsApp Image 2025-12-04 at 10 42 16_195c9915](https://github.com/user-attachments/assets/53e50a30-6ca3-421d-81f7-69ced93bc25b)
 
 ## RESULT:
 Thus the drain and transfer characteristics of N-channel JFET circuit using LT-spice is simulated and verified. 
