@@ -14,7 +14,8 @@
 ## THEORY
 A NPN function transistor consist of a silicon (or germanium) crystal in which a layer of p – type silicon is sandwiched between two layers of N – type silicon.  The arrow on emitter lead specifies the direction of the current flow when the emitter – base Junction is biased in the forward direction since the conductivity of the BJT depends on both the majority and minority carriers it is called bipolar device.  In CE configuration base is the i/p terminal, collector is the o/p terminal and emitter is common to both input and output.  The ratio of change in I<sub>c</sub> to change in base current Ib is known as Current amplification factor or current gain..
 ## CIRCUIT DIAGRAM: 
-<img width="557" height="805" alt="Screenshot 2025-11-28 192455" src="https://github.com/user-attachments/assets/08599fcb-a4b8-4f76-978e-ad0bec25082e" />
+![WhatsApp Image 2025-12-04 at 10 33 39_d4954a81](https://github.com/user-attachments/assets/f621a9f4-7f1b-47c7-af6b-354a9a9bc6c8)
+
 ## PROCEDURE:  
 ## INPUT CHARACTERISTICS
 
@@ -48,13 +49,13 @@ A NPN function transistor consist of a silicon (or germanium) crystal in which a
 
 
 ## TABULATION:
-<img width="569" height="744" alt="Screenshot 2025-11-28 192527" src="https://github.com/user-attachments/assets/800a69e4-5942-4ba9-9c60-784a264de0df" />
+![WhatsApp Image 2025-12-04 at 10 33 53_67a8f679](https://github.com/user-attachments/assets/ae90498f-7d42-4f61-8d8f-a1dd33ecda46)
+![WhatsApp Image 2025-12-04 at 10 37 25_58a39b70](https://github.com/user-attachments/assets/f169b719-c30b-4cb9-9d35-a9181d612189)
 
-<img width="585" height="729" alt="Screenshot 2025-11-28 192540" src="https://github.com/user-attachments/assets/6807eb93-8fb1-4230-9b00-41f7630e8106" />
 
 ## GRAPH:
-<img width="531" height="817" alt="Screenshot 2025-11-28 192647" src="https://github.com/user-attachments/assets/ba06c833-88f3-4e0d-827c-051ff0aee0c1" />
-<img width="555" height="813" alt="Screenshot 2025-11-28 192704" src="https://github.com/user-attachments/assets/437a1505-4cc1-4a41-b8d4-fa7facb7e956" />
+![WhatsApp Image 2025-12-04 at 10 33 37_e8e95eff](https://github.com/user-attachments/assets/9d515de6-1c6e-49e3-bca9-0614237ee30d)
+![WhatsApp Image 2025-12-04 at 10 33 55_18723b0a](https://github.com/user-attachments/assets/204bf303-a931-41e4-bcb2-1493b2fe3591)
 
  ## RESULT:
  The input and output characteristics of transistor in CE mode is drawn and, the h parameters are calculated.
